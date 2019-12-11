@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1575444015 source:c:\users\aahmad\desktop\c projects\monte-carlo\main.c
-	<stdlib.h>
-	<stdio.h>
-	<omp.h>
-	<time.h>
-	<sys/time.h>
-
